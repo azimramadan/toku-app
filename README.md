@@ -53,6 +53,7 @@ To run the project locally:
 
    ```bash
    git clone https://github.com/azimramadan/toku-app.git
+   cd weather-app
    
 2. **Install Flutter Dependencies:**
 
